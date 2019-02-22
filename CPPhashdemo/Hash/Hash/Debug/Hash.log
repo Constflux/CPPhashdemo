@@ -1,0 +1,6 @@
+﻿  Hash.cpp
+c:\users\jami\documents\cs425 algorithm development\week 5\hash\hash\hash.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jami\documents\cs425 algorithm development\week 5\hash\hash\hash.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jami\documents\cs425 algorithm development\week 5\hash\hash\hash.cpp(84): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hash.vcxproj -> C:\Users\Jami\Documents\CS425 Algorithm Development\Week 5\Hash\Debug\Hash.exe
+  Hash.vcxproj -> C:\Users\Jami\Documents\CS425 Algorithm Development\Week 5\Hash\Debug\Hash.pdb (Partial PDB)
